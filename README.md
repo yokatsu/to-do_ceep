@@ -1,2 +1,3 @@
 ## Projeto de teste DOM
-### yoyo site
+### Este projeto é um exercício de Document Object Model(DOM) da Alura
+
